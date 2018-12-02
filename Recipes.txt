@@ -3,3 +3,11 @@ Wellcome in my examples from php tutorials.
 
 
 Testing a git diff.
+
+
+Testing a vim filename.txt
+
+Wellcome
+
+--SAVE--
+
